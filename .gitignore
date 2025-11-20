@@ -1,0 +1,14 @@
+# Buildozer build folders
+.buildozer/
+bin/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual environments
+kivy_wsl_env/
+venv/
+
+# Logs
+*.log
